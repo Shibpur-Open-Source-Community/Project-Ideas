@@ -7,3 +7,7 @@
 5. Open your Github account and create pull request from your forked repo.
 
 #### That's it.
+
+If you get stuck, follow [this tutorial].
+
+[this tutorial]: https://www.thinkful.com/learn/github-pull-request-tutorial/
